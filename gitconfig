@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jessikahouete@orange.fr
+	name = Jessika Martin
