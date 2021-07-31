@@ -66,3 +66,7 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
 export BUNDLER_EDITOR=code
+
+eval "$(pyenv init -)"
+
+# export PYTHONPATH = '/home/jessy/code/Jessika-prog/exo_recipe_jo/recipes-project'
